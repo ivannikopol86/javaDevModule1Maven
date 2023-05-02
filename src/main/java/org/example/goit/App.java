@@ -10,6 +10,7 @@ public class App {
 
 		Gson gson = new Gson();
 		System.out.println(gson.toJson(person));
+		
 	}
 	
 }
